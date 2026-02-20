@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+/*Estilização do HEADER*/
+header{
+    background-color: rgb(78,8,116);
+}
+/*Estilização do LOGO*/
+.logo{
+    width: 12%;
+    padding: 10px 0 20px 5%;
+    /* padding-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 20px; */
+}
+/*Estilização do MENU*/
+nav {
+    color: white;
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    font-size: 35px;
+    font-family: cursive;
+}
+nav li{
+    display: inline;
+    margin-right: 40px;
+    font-weight: bold;
+}
+.divHeader{
+    position: relative;
+}
