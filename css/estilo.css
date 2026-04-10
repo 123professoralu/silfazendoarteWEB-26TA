@@ -28,6 +28,10 @@ nav li{
     margin-right: 40px;
     font-weight: bold;
 }
+nav li a{
+    color: white;
+    text-decoration: none;
+}
 .divHeader{
     position: relative;
 }
